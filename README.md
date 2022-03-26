@@ -13,14 +13,16 @@ Technology used : bootstrap, nodejs, express, mongodb. It is a website where cli
 ### About
 Allows customers to book a room, reserve a table at the hotel's restaurant, and give feedback and can also order food online. Allows managers/admin to view room availability, current guests, checkin and checkout guests, and restaurant table reservations.
 <br>
+<br>
 <img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/about.jpeg"
-width="500px">
+width="700px">
+<br>
 <br>
 
 <a name="guest"></a>
 ### Customer View
 Booking a room:<br>
-<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/book%20room.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/book%20room.jpeg" width="800px">
 
 User can reserve a table at the restaurant:<br>
 <img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/table.jpeg" width="500px">
