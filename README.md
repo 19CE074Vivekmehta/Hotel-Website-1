@@ -45,24 +45,24 @@ Managers need to be signed up to login. Mangers can view room availability, tabl
 An admin account has already been created on the demo:
 <br>Email: admin
 <br>Password: admin
-<br>
+<br><br>
 <b>Manager Menu<b>
 <br>
-<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/managermenu.jpeg" width="800px"><br><br>
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/managermenu.jpeg" width="800px"><br><br>
 
 <b>View Rooms<b>
 <br>
-<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/viewrooms.jpeg" width="800px"><br><br>
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/viewrooms.jpeg" width="800px"><br><br>
 
   
 <b>Room status<b>
 <br>
-<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/roomstatus.jpeg" width="800px"><br><br>
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/roomstatus.jpeg" width="800px"><br><br>
 
  
 <b>Feedback details<b>
 <br>
-<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedbackdetails.jpeg" width="800px"><br><br>
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedbackdetails.jpeg" width="800px"><br><br>
 
 <a name="dbview"></a>
 ### Database view
@@ -70,12 +70,12 @@ An admin account has already been created on the demo:
 
 <a name="demo"></a>
 ### Demo
-hosting soon....
+<ins>hosting soon....</>
 <br>
-Manager Portal: 
+### Manager Portal: 
 <br>
-hosting soon....
+<ins>hosting soon....</ins>
 <br> 
-Spreadsheet Link :
+### Spreadsheet Link :
 https://1drv.ms/x/s!AjdqqwqCxhGHhMoywgzAVCHzesGZpw?e=1pkzSd 
 
