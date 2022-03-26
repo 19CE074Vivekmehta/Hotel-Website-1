@@ -20,23 +20,19 @@ width="500px">
 <a name="guest"></a>
 ### Customer View
 Booking a room:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160231452-4f3ea244-0ef7-4713-acb3-193dc5b7e19e.png" width="500px">
-
-Once a user books a room, they can login and view their room info and user options::<br>
-<img src="./public/assets/img/guest.png" width="500px">
+<img src="https://user-images.githubusercontent.com/82458994/160232026-fef35ec8-84a0-4e1c-92bd-2c6868f416df.jpeg" width="500px">
 
 User can reserve a table at the restaurant:<br>
-<img src="./public/assets/img/reserve.png" width="500px">
-
-User can reserve a room at the hotel:<br>
-<img src="./public/assets/img/reserve.png" width="500px">
-
+<img src="https://user-images.githubusercontent.com/82458994/160232161-0c8c9414-9932-48e5-b2ea-8e2284ec3008.jpeg" width="500px">
 
 User can also order food online:<br>
-<img src="./public/assets/img/reserve.png" width="500px">
+<img src="https://user-images.githubusercontent.com/82458994/160232087-f48b2564-deef-4e35-8e3f-4121a281eff8.jpeg" width="500px">
+
+Contact Page:<br>
+<img src="https://user-images.githubusercontent.com/82458994/160232238-536949d1-19cf-49b8-bb38-1dff77544f80.jpeg " width="500px">
 
 They can also give feedbacks:<br>
-<img src="./public/assets/img/yelp.png" width="500px">
+<img src="https://user-images.githubusercontent.com/82458994/160232255-af667f62-4b4d-42ac-b7e1-7850f5931f38.jpeg" width="500px">
 
 <a name="manager"></a>
 ### Manager View
