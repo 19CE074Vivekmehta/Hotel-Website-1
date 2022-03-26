@@ -15,41 +15,58 @@ Allows customers to book a room, reserve a table at the hotel's restaurant, and 
 <br>
 <br>
 <img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/about.jpeg"
-width="700px">
+width="800px">
 <br>
 <br>
 
 <a name="guest"></a>
-### Customer View
+### Client View
 Booking a room:<br>
 <img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/book%20room.jpeg" width="800px">
 
 User can reserve a table at the restaurant:<br>
-<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/table.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/table.jpeg" width="800px">
 
 User can also order food online:<br>
-<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/menu.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/menu.jpeg" width="800px">
 
 Contact Page:<br>
-<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/contactus.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/contactus.jpeg" width="800px">
 
 They can also give feedbacks:<br>
-<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedback.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedback.jpeg" width="800px">
 
 <a name="manager"></a>
 ### Manager View
 The manager view is hidden from the main view. The Manager Portal route is: `/admin`
 <br>
 Managers need to be signed up to login. Mangers can view room availability, table availability and check in and check out guests, and view current reservations at the restaurant and also see feedbacks.<br>
-<img src="./public/assets/img/rooms.png" width="500px"><br><br>
+<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/adminform.jpeg" width="800px"><br><br>
 An admin account has already been created on the demo:
 <br>Email: admin
 <br>Password: admin
+<br>
+<b>Manager Menu<b>
+<br>
+<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/managermenu.jpeg" width="800px"><br><br>
 
+<b>View Rooms<b>
+<br>
+<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/viewrooms.jpeg" width="800px"><br><br>
+
+  
+<b>Room status<b>
+<br>
+<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/roomstatus.jpeg" width="800px"><br><br>
+
+ 
+<b>Feedback details<b>
+<br>
+<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedbackdetails.jpeg" width="800px"><br><br>
 
 <a name="dbview"></a>
 ### Database view
-<img src="https://user-images.githubusercontent.com/82458994/160231452-4f3ea244-0ef7-4713-acb3-193dc5b7e19e.png" width="500px">
+<img src="https://user-images.githubusercontent.com/82458994/160231452-4f3ea244-0ef7-4713-acb3-193dc5b7e19e.png" width="800">
 
 <a name="demo"></a>
 ### Demo
