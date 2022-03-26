@@ -41,7 +41,7 @@ They can also give feedbacks:<br>
 The manager view is hidden from the main view. The Manager Portal route is: `/admin`
 <br>
 Managers need to be signed up to login. Mangers can view room availability, table availability and check in and check out guests, and view current reservations at the restaurant and also see feedbacks.<br>
-<img src=".https://github.com/nikita-mirchandani/Hotel-Website/blob/main/adminform.jpeg" width="800px"><br><br>
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/adminform.jpeg" width="800px"><br><br>
 An admin account has already been created on the demo:
 <br>Email: admin
 <br>Password: admin
