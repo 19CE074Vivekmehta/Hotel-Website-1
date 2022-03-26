@@ -13,26 +13,26 @@ Technology used : bootstrap, nodejs, express, mongodb. It is a website where cli
 ### About
 Allows customers to book a room, reserve a table at the hotel's restaurant, and give feedback and can also order food online. Allows managers/admin to view room availability, current guests, checkin and checkout guests, and restaurant table reservations.
 <br>
-<img src="https://user-images.githubusercontent.com/82458994/160231937-7ab44b50-6f68-4448-b976-4bdb6bfac291.jpeg"
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/about.jpeg"
 width="500px">
 <br>
 
 <a name="guest"></a>
 ### Customer View
 Booking a room:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160232026-fef35ec8-84a0-4e1c-92bd-2c6868f416df.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/book%20room.jpeg" width="500px">
 
 User can reserve a table at the restaurant:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160232161-0c8c9414-9932-48e5-b2ea-8e2284ec3008.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/table.jpeg" width="500px">
 
 User can also order food online:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160232087-f48b2564-deef-4e35-8e3f-4121a281eff8.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/menu.jpeg" width="500px">
 
 Contact Page:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160232238-536949d1-19cf-49b8-bb38-1dff77544f80.jpeg " width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/contactus.jpeg" width="500px">
 
 They can also give feedbacks:<br>
-<img src="https://user-images.githubusercontent.com/82458994/160232255-af667f62-4b4d-42ac-b7e1-7850f5931f38.jpeg" width="500px">
+<img src="https://github.com/nikita-mirchandani/Hotel-Website/blob/main/feedback.jpeg" width="500px">
 
 <a name="manager"></a>
 ### Manager View
