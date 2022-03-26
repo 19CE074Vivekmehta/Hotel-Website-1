@@ -13,7 +13,8 @@ Technology used : bootstrap, nodejs, express, mongodb. It is a website where cli
 ### About
 Allows customers to book a room, reserve a table at the hotel's restaurant, and give feedback and can also order food online. Allows managers/admin to view room availability, current guests, checkin and checkout guests, and restaurant table reservations.
 <br>
-<img src="https://user-images.githubusercontent.com/82458994/160231804-021260aa-d82a-4495-96e0-0e5b4e5f6c35.jpeg" width="500px">
+<img src="https://user-images.githubusercontent.com/82458994/160231937-7ab44b50-6f68-4448-b976-4bdb6bfac291.jpeg"
+width="500px">
 <br>
 
 <a name="guest"></a>
