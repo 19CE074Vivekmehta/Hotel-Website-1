@@ -70,12 +70,11 @@ An admin account has already been created on the demo:
 
 <a name="demo"></a>
 ### Demo
-<ins>hosting soon....</>
+<ins>hosting soon....</ins>
 <br>
 ### Manager Portal: 
-<br>
 <ins>hosting soon....</ins>
 <br> 
-### Spreadsheet Link :
+Spreadsheet Link :
 https://1drv.ms/x/s!AjdqqwqCxhGHhMoywgzAVCHzesGZpw?e=1pkzSd 
 
